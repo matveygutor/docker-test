@@ -50,5 +50,5 @@ volumes:
   db-data:
 secrets:
   db-password:
-    file: db/password.txt
+    file: data/password.txt
 
